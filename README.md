@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firman</h1>
-<h3 align="center">enthusiastic game developer from Indonesia 🎮✨</h3>
+<h3 align="center">i like game and wanna be a good game developer 🎮✨</h3>
 <img align="right" alt="Coding" width="180" src="https://media.tenor.com/6WqbcQdJCFMAAAAi/mimibubu.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firman-hs&label=Profile%20views&color=0e75b6&style=flat" alt="firman-hs" /> </p>
